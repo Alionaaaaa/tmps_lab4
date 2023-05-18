@@ -1,0 +1,15 @@
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\bin\Debug\net6.0\lab4Behavioral.exe
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\bin\Debug\net6.0\lab4Behavioral.deps.json
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\bin\Debug\net6.0\lab4Behavioral.runtimeconfig.json
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\bin\Debug\net6.0\lab4Behavioral.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\bin\Debug\net6.0\lab4Behavioral.pdb
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.csproj.AssemblyReference.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.AssemblyInfoInputs.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.AssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.csproj.CoreCompileInputs.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\refint\lab4Behavioral.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.pdb
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\lab4Behavioral.genruntimeconfig.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab4\lab4Behavioral\lab4Behavioral\obj\Debug\net6.0\ref\lab4Behavioral.dll
